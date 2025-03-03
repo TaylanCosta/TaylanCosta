@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TaylanCosta
-- 👀 I’m interested in ... aprender mais
+- 👀 I’m interested in ... programação
 - 🌱 I’m currently learning ... análise e desenvolvimento de sistemas
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... taylancosta37@gmail.com
